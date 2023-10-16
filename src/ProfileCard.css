@@ -1,0 +1,21 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border: 1px solid lightslategray;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.cardImage{
+    display: block;
+    border-radius: 5px;
+}
+.content{
+    display: block;
+    margin: 5px;
+}
+.cardImage img{
+    border-radius: 10px;
+}
